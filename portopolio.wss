@@ -1,0 +1,359 @@
+<site version="3.0"><css/><components/><page id="p113504062" pageindex="1" name="biodata" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="10" id="roundrect1" zorder="2" filename="roundrect113535781" width="1383" height="157" fillstyle="0" spborder="1" fromcolor="#00FFFF" shapetype="1" radius="20" previewfile="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\shape6NUD8.gif" left="0" top="0" fp="1" bordercolor="#00CCFF" borderwidth="1" tocolor="#808080" bgcolor="" borderstyle="" exportfilename="images/roundrect113535781.gif" lp="1"/><Component type="11" id="ellipse1" zorder="4" filename="ellipse113964578" width="372" height="291" fillstyle="0" spborder="1" fromcolor="#0000FF" shapetype="2" previewfile="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\shapeQVFS3.gif" left="2" top="1" bordercolor="#000080" borderwidth="1" bgcolor="" borderstyle="" exportfilename="images/ellipse113964578.gif" fp="1" lp="1"/><Component type="2" id="text2" zorder="5" filename="text114038156" left="82" top="304" width="196" height="36" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Arial Rounded MT Bold" style="font-size:29px;"&gt;Demas yusuF&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Arial Rounded MT Bold" class="ws22"&gt;Demas yusuF&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQryAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhVBcmlhbCBSb3VuZGVkIE1UIEJvbGQEU2l6ZQIWAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5
+EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMCAwIDAgMA0KRGVtYXMgeXVzdUYNCg==
+</rvf></Component><Component type="4" id="shape1" zorder="0" filename="shape115289843" width="1366" height="508" bgcolor="#CCFFFF" previewfile="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\shape1U482.gif" left="11" top="85" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape115289843.gif" fp="1" lp="1"/><Component type="7" id="marquee1" zorder="3" filename="marquee116228484" width="1134" height="90" html="" left="112" top="28" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" direction="" scrolldelay="60" scrollamount="7" loop="" behavior="" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Bookman Old Style" style="font-size:64px;"&gt;&lt;B&gt;wellcome to my website portopolio&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Bookman Old Style" class="ws48"&gt;&lt;B&gt;wellcome to my website portopolio&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQr9AAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhFCb29rbWFuIE9sZCBTdHlsZQRTaXplAjAFU3R5bGULBmZzQm9sZAAA
+AC05IDIgMCAwIDIgMCAyDQpydnMNCgcBAAAOAQlTdHlsZU5hbWUGCkxlZnQgQWxpZ24HT3B0aW9u
+cwsABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0
+aW9ucwsABFRhYnMOAAABCVN0eWxlTmFtZQYLUmlnaHQgQWxpZ24JQWxpZ25tZW50BwhydmFSaWdo
+dAdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBg1Qcm90ZWN0IFRhYmxlB09wdGlvbnMLDXJ2
+cGFvUmVhZE9ubHkRcnZwYW9TdHlsZVByb3RlY3QVcnZwYW9Eb05vdFdhbnRSZXR1cm5zAARUYWJz
+DgAAAC05IDIgMCAwIDIgMCA0DQpydnMNCgIAAAAOADMgMSAwIDAgMCAwDQp3ZWxsY29tZSB0byBt
+eSB3ZWJzaXRlIHBvcnRvcG9saW8NCg==
+</rvf></Component><Component type="2" id="text1" zorder="6" filename="text118235671" width="367" height="262" html="" left="0" top="348" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:24px;"&gt;Visi&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Menjadi pribadi yang menyenangkan dan membahagiakan banyak orang serta taat beragama.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:24px;"&gt;Misi&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Lebih taat menjalankan perintah agama.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Bersahabat dengan siapapun yang menurut saya baik dan selalu berpikir positif.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Ramah pada orang lain dan memberikan pertolongan pada orang yang kesulitan&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Berusaha tidak membentak orang tua dan selalu membahagiakannya.&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws18"&gt;Visi&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;Menjadi pribadi yang menyenangkan dan membahagiakan banyak orang serta taat beragama.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws18"&gt;Misi&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font face="Cambria" class="ws12"&gt;Lebih taat menjalankan perintah agama.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face="Cambria" class="ws12"&gt;Bersahabat dengan siapapun yang menurut saya baik dan selalu berpikir positif.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face="Cambria" class="ws12"&gt;Ramah pada orang lain dan memberikan pertolongan pada orang yang kesulitan&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font face="Cambria" class="ws12"&gt;Berusaha tidak membentak orang tua dan selalu membahagiakannya.&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQogAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYW1icmlhBFNpemUCEgABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgdDYW1icmlhBFNpemUCDAAALTkgMiAwIDAgMiAwIDINCnJ2cw0K
+TgEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVO
+YW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlT
+dHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxl
+UHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVy
+ZWQIU3RhbmRhcmQICUFsaWdubWVudAcKcnZhSnVzdGlmeQdPcHRpb25zCwAEVGFicw4AAAAtOSAy
+IDAgMCAyIDAgNA0KcnZzDQqEAAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0YW5kYXJkCAZM
+ZXZlbHMOAQpMZWZ0SW5kZW50AigLRmlyc3RJbmRlbnQCAAxNYXJrZXJJbmRlbnQCGAtGb250Lkhl
+aWdodALxCUZvbnQuTmFtZQYGU3ltYm9sAAAFTHN0SUQEbJbSEwAAMyAxIDEgMCAwIDANClZpc2kN
+CjQgMSAxIDAgMCAwDQpNZW5qYWRpIHByaWJhZGkgeWFuZyBtZW55ZW5hbmdrYW4gZGFuIG1lbWJh
+aGFnaWFrYW4gYmFueWFrIG9yYW5nIHNlcnRhIHRhYXQgYmVyYWdhbWEuDQozIDEgMSAwIDAgMA0K
+TWlzaQ0KLTExIDAgNCAwIDAgMCAwIDAgMCAwDQo0IDEgLTEgMSAwIDANCkxlYmloIHRhYXQgbWVu
+amFsYW5rYW4gcGVyaW50YWggYWdhbWEuDQotMTEgMCA0IDAgMCAwIDAgMCAwIDANCjQgMSAtMSAx
+IDAgMA0KQmVyc2FoYWJhdCBkZW5nYW4gc2lhcGFwdW4geWFuZyBtZW51cnV0IHNheWEgYmFpayBk
+YW4gc2VsYWx1IGJlcnBpa2lyIHBvc2l0aWYuDQotMTEgMCA0IDAgMCAwIDAgMCAwIDANCjQgMSAt
+MSAxIDAgMA0KUmFtYWggcGFkYSBvcmFuZyBsYWluIGRhbiBtZW1iZXJpa2FuIHBlcnRvbG9uZ2Fu
+IHBhZGEgb3JhbmcgeWFuZyBrZXN1bGl0YW4NCi0xMSAwIDQgMCAwIDAgMCAwIDAgMA0KNCAxIC0x
+IDEgMCAwDQpCZXJ1c2FoYSB0aWRhayBtZW1iZW50YWsgb3JhbmcgdHVhIGRhbiBzZWxhbHUgbWVt
+YmFoYWdpYWthbm55YS4NCg==
+</rvf></Component><Component type="2" id="text3" zorder="7" filename="text118247593" width="887" height="447" html="" left="465" top="150" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:27px;"&gt;&lt;B&gt;Indentitas&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:21px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Nama lengkap&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : Demas Yusuf Puji Santoso&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;usia&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : 28th&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Warga Negara&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : Indonesia&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Suku&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : Jawa&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;status pendidikan&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : Mahasiswa (Fakultas : Universitas Siber Asia)&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;hobi&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : Mendengarkan Musik (Genre : Rock,POP,HipHop,Remix,DJ,Dangdut,Clasic)&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;tentang diri&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : Saya adalah seorang yang introvert keseharian saya tidak banyak kerja-makan-tidur &lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; tak ada waktu untuk traveling atau sekedar menghibur diri di luar rumah, &lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; tinggal di kontrakan yang sederhana membuat saya berfikir kritis dalam memanfaatkan&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; keuangan dan mengelola keuangan saya lebih mandiri sebab saya merantau &lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; sendiri di Dki Jakarta sejak 2016 dan jauh dari keluarga.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Keahlian&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : 1. Mekanik Motor (Lulusan SMK Taman Siswa ,bidang mesin Motor )&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Bidang komputer (status Kuliah di bidang IT, prodi Sistem Informasi , Fakultas Universitas Siber Asia)&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Prestasi&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : 1. 2013-2015 Bekerja di bengkel PMS(Prima Motor Sport)&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. 2016-2022 Bekerja di Sperpart PC,Laptop Milik perusahaan.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws20"&gt;&lt;B&gt;Indentitas&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws16"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;Nama lengkap&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : Demas Yusuf Puji Santoso&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;usia&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : 28th&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;Warga Negara&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : Indonesia&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;Suku&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : Jawa&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;status pendidikan&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : Mahasiswa (Fakultas : Universitas Siber Asia)&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;hobi&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : Mendengarkan Musik (Genre : Rock,POP,HipHop,Remix,DJ,Dangdut,Clasic)&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;tentang diri&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : Saya adalah seorang yang introvert keseharian saya tidak banyak kerja-makan-tidur &lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; tak ada waktu untuk traveling atau sekedar menghibur diri di luar rumah, &lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; tinggal di kontrakan yang sederhana membuat saya berfikir kritis dalam memanfaatkan&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; keuangan dan mengelola keuangan saya lebih mandiri sebab saya merantau &lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; sendiri di Dki Jakarta sejak 2016 dan jauh dari keluarga.&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;Keahlian&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : 1. Mekanik Motor (Lulusan SMK Taman Siswa ,bidang mesin Motor )&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. Bidang komputer (status Kuliah di bidang IT, prodi Sistem Informasi , Fakultas Universitas Siber Asia)&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;Prestasi&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : 1. 2013-2015 Bekerja di bengkel PMS(Prima Motor Sport)&lt;/font&gt;&lt;/div&gt;
+&lt;div style="line-height:1.50;"&gt;&lt;font face="Cambria" class="ws12"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 2. 2016-2022 Bekerja di Sperpart PC,Laptop Milik perusahaan.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQp6AQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYW1icmlhBFNpemUCEAVTdHlsZQsGZnNCb2xkAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdDYW1icmlhBFNpemUCDAABCVN0eWxl
+TmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdDYW1icmlhBFNpemUCFAVTdHls
+ZQsGZnNCb2xkAAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KngEAAA4BCVN0eWxlTmFtZQYKTGVmdCBB
+bGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2
+YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1l
+bnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUH
+T3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJl
+dHVybnMABFRhYnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQIU3RhbmRhcmQICUFsaWdubWVudAcJ
+cnZhQ2VudGVyC0xpbmVTcGFjaW5nA5YAB09wdGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGCkxl
+ZnQgQWxpZ24IU3RhbmRhcmQIC0xpbmVTcGFjaW5nA5YAB09wdGlvbnMLAARUYWJzDgAAAC05IDIg
+MCAwIDIgMCA0DQpydnMNCgIAAAAOADUgMSA0IDAgMCAwDQpJbmRlbnRpdGFzDQozIDEgNCAwIDAg
+MA0KDQo0IDE1IDUgMCAwIDANCk5hbWEgbGVuZ2thcCAgICAgICAgICAgICAgIDogRGVtYXMgWXVz
+dWYgUHVqaSBTYW50b3NvDQp1c2lhICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA6IDI4
+dGgNCldhcmdhIE5lZ2FyYSAgICAgICAgICAgICAgOiBJbmRvbmVzaWENClN1a3UgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgOiBKYXdhDQpzdGF0dXMgcGVuZGlkaWthbiAgICAgICAgIDog
+TWFoYXNpc3dhIChGYWt1bHRhcyA6IFVuaXZlcnNpdGFzIFNpYmVyIEFzaWEpDQpob2JpICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICA6IE1lbmRlbmdhcmthbiBNdXNpayAoR2VucmUgOiBS
+b2NrLFBPUCxIaXBIb3AsUmVtaXgsREosRGFuZ2R1dCxDbGFzaWMpDQp0ZW50YW5nIGRpcmkgICAg
+ICAgICAgICAgICAgICAgIDogU2F5YSBhZGFsYWggc2VvcmFuZyB5YW5nIGludHJvdmVydCBrZXNl
+aGFyaWFuIHNheWEgdGlkYWsgYmFueWFrIGtlcmphLW1ha2FuLXRpZHVyIA0KICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRhayBhZGEgd2FrdHUgdW50dWsgdHJhdmVs
+aW5nIGF0YXUgc2VrZWRhciBtZW5naGlidXIgZGlyaSBkaSBsdWFyIHJ1bWFoLCANCiAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aW5nZ2FsIGRpIGtvbnRyYWthbiB5
+YW5nIHNlZGVyaGFuYSBtZW1idWF0IHNheWEgYmVyZmlraXIga3JpdGlzIGRhbGFtIG1lbWFuZmFh
+dGthbg0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBrZXVhbmdh
+biBkYW4gbWVuZ2Vsb2xhIGtldWFuZ2FuIHNheWEgbGViaWggbWFuZGlyaSBzZWJhYiBzYXlhIG1l
+cmFudGF1IA0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbmRp
+cmkgZGkgRGtpIEpha2FydGEgc2VqYWsgMjAxNiBkYW4gamF1aCBkYXJpIGtlbHVhcmdhLg0KS2Vh
+aGxpYW4gICAgICAgICAgICAgICAgICAgICAgIDogMS4gTWVrYW5payBNb3RvciAoTHVsdXNhbiBT
+TUsgVGFtYW4gU2lzd2EgLGJpZGFuZyBtZXNpbiBNb3RvciApDQogICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgMi4gQmlkYW5nIGtvbXB1dGVyIChzdGF0dXMgS3VsaWFoIGRp
+IGJpZGFuZyBJVCwgcHJvZGkgU2lzdGVtIEluZm9ybWFzaSAsIEZha3VsdGFzIFVuaXZlcnNpdGFz
+IFNpYmVyIEFzaWEpDQpQcmVzdGFzaSAgICAgICAgICAgICAgICAgICAgICAgIDogMS4gMjAxMy0y
+MDE1IEJla2VyamEgZGkgYmVuZ2tlbCBQTVMoUHJpbWEgTW90b3IgU3BvcnQpDQogICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMi4gMjAxNi0yMDIyIEJla2VyamEgZGkgU3Bl
+cnBhcnQgUEMsTGFwdG9wIE1pbGlrIHBlcnVzYWhhYW4uDQo=
+</rvf></Component><Component type="10" id="roundrect2" zorder="1" filename="roundrect121167546" width="367" height="616" fillstyle="0" spborder="0" fromcolor="#99CC00" shapetype="1" radius="23" previewfile="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\shape5J43T.gif" left="3" top="13" bordercolor="#808080" borderwidth="1" tocolor="#808080" bgcolor="" borderstyle="" exportfilename="images/roundrect121167546.gif" fp="1" lp="1"/><Component type="5" id="nav1" zorder="8" filename="nav121525984" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="100" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="C:\Users\Mr.Dimas\Documents\Web Page Maker\Navbar\cc01in.gif" mouseoverimage="C:\Users\Mr.Dimas\Documents\Web Page Maker\Navbar\cc01over.gif" mouseoversound="" navtext0="home" navurl0="page://p116168671" navtarget0="" navstate0="0" navtarget1="" navtarget2="" navtarget3="" navcount="1" width="126" height="26" preview="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\Nav2DDAI" left="119" top="590" exportfilename="images/nav121525984" exportsound="" fp="1" lp="1"/><Component type="3" id="image1" zorder="9" filename="image126577937" left="16" top="0" width="345" height="297" originwidth="236" originheight="236" src="C:\unsia\pemrograman basis web\uts\portopolio\images\slazzer-edit-image-modified.png" previewfile="C:\unsia\pemrograman basis web\uts\portopolio\images\slazzer-edit-image-modified.png" thumbname="thumb139467718" resamplename="img139467718" exportfilename="images/slazzer-edit-image-modified.png" fp="1" lp="1"/></body></page><page id="p116168671" pageindex="0" name="home" pp="1" cp="1"><body bgoutput="" bgsoutput="images/memories-cover-by-j-fla.mp3" bgp="1" bsp="1" generator="0" bgsoundloop="23" align="0" charset="0" charsetcode="ISO-8859-1" effectstyle0="9" effectduration0="15" effectstyle1="0" effectduration1="0" effectstyle2="0" effectduration2="0" effectstyle3="0" effectduration3="0" imagetoolbar="0" enableprotect="0" bgimage="" bgpreview="" bgfixed="fixed" repeat="" halign="1" valign="1" backgroundcolor="#0000FF" bgsound="C:\unsia\pemrograman basis web\uts\portopolio\musik\memories-cover-by-j-fla.mp3"><Component type="10" id="roundrect1" zorder="1" filename="roundrect116168781" width="1366" height="119" fillstyle="0" spborder="1" fromcolor="#00FFFF" shapetype="1" radius="20" previewfile="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\shapeB8FUO.gif" left="1" top="0" fp="1" bordercolor="#00CCFF" borderwidth="1" tocolor="#808080" bgcolor="" borderstyle="" exportfilename="images/roundrect116168781.gif" lp="1"/><Component type="2" id="text1" zorder="2" filename="text116168765" width="1045" height="117" html="" left="183" top="2" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" savetopic="0" alt="" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Arial Rounded MT Bold" style="font-size:96px;"&gt;Website Portopolio&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Arial Rounded MT Bold" class="ws72"&gt;Website Portopolio&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQryAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhVBcmlhbCBSb3VuZGVkIE1UIEJvbGQEU2l6ZQJIAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5
+EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMSAwIDAgMA0KV2Vic2l0ZSBQb3J0b3BvbGlvDQo=
+</rvf></Component><Component type="4" id="shape1" zorder="0" filename="shape116168718" width="1366" height="594" bgcolor="#CCFFFF" previewfile="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\shape1TTR2.gif" left="3" top="18" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape116168718.gif" fp="1" lp="1"/><Component type="5" id="nav1" zorder="5" filename="nav117546828" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="60" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="28" normalimage="C:\Users\Mr.Dimas\Documents\Web Page Maker\Navbar\rect04in.gif" mouseoverimage="C:\Users\Mr.Dimas\Documents\Web Page Maker\Navbar\rect04over.gif" mouseoversound="" navtext0="bio data" navurl0="page://p113504062" navtarget0="" navstate0="0" navtext1="inspirasi" navurl1="page://p116184187" navtarget1="" navstate1="0" navtext2="kontak" navurl2="page://p116184921" navtarget2="" navstate2="0" navtarget3="" navcount="3" width="180" height="264" preview="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\Nav5R86F" left="368" top="305" exportfilename="images/nav117546828" exportsound="" fp="1" lp="1"/><Component type="5" id="nav2" zorder="6" filename="nav123803953" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="80" navstyle="1" hormargin="0" vermargin="0" textalign="1" navwidth="180" navheight="28" normalimage="C:\Users\Mr.Dimas\Documents\Web Page Maker\Navbar\rect04in.gif" mouseoverimage="C:\Users\Mr.Dimas\Documents\Web Page Maker\Navbar\rect04over.gif" mouseoversound="" navtext0="MyBlog" navurl0="https://demas7812.blogspot.com/" navtarget0="" navstate0="0" navtext1="GitHub" navurl1="https://github.com/dimasUNSIA" navtarget1="" navstate1="0" navtarget2="" navtarget3="" navcount="2" width="180" height="216" preview="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\NavJ0V88" left="781" top="304" exportfilename="images/nav123803953" exportsound="" fp="1" lp="1"/><Component type="3" id="image1" zorder="4" filename="image127386515" left="445" top="38" width="433" height="577" originwidth="433" originheight="577" src="C:\unsia\pemrograman basis web\uts\portopolio\images\slazzer-edit-image.png" previewfile="C:\unsia\pemrograman basis web\uts\portopolio\images\slazzer-edit-image.png" thumbname="thumb139469546" resamplename="img139469546" exportfilename="images/slazzer-edit-image.png" fp="1" lp="1"/><Component type="3" id="image2" zorder="3" filename="image128863718" left="0" top="68" width="1373" height="772" originwidth="611" originheight="409" src="C:\unsia\pemrograman basis web\uts\portopolio\images\4-pusaran-air-laut-terbesar-di-dunia-nomor-2-namanya-populer-dalam-cerita-anime-tks_prev_ui (1).png" previewfile="C:\unsia\pemrograman basis web\uts\portopolio\images\4-pusaran-air-laut-terbesar-di-dunia-nomor-2-namanya-populer-dalam-cerita-anime-tks_prev_ui (1).png" thumbname="thumb139469531" resamplename="img139469531" exportfilename="images/4-pusaran-air-laut-terbesar-di-dunia-nomor-2-namanya-populer-dalam-cerita-anime-tks_prev_ui (1).png" fp="1" lp="1"/></body></page><page id="p116184187" pageindex="2" name="inspirasi" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="10" id="roundrect1" zorder="2" filename="roundrect116184296" width="1366" height="119" fillstyle="0" spborder="1" fromcolor="#00FFFF" shapetype="1" radius="20" previewfile="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\shapeUVBGJ.gif" left="1" top="0" fp="1" bordercolor="#00CCFF" borderwidth="1" tocolor="#808080" bgcolor="" borderstyle="" exportfilename="images/roundrect116184296.gif" lp="1"/><Component type="2" id="text1" zorder="3" filename="text116184281" width="1045" height="117" html="" left="297" top="5" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" savetopic="0" alt="" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Arial Rounded MT Bold" style="font-size:96px;"&gt;Inspirasi&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Arial Rounded MT Bold" class="ws72"&gt;Inspirasi&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQryAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBhVBcmlhbCBSb3VuZGVkIE1UIEJvbGQEU2l6ZQJIAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQoHAQAADgEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduB09wdGlvbnMLAARUYWJzDgAA
+AQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlvbnMLAARUYWJz
+DgAAAQlTdHlsZU5hbWUGC1JpZ2h0IEFsaWduCUFsaWdubWVudAcIcnZhUmlnaHQHT3B0aW9ucwsA
+BFRhYnMOAAABCVN0eWxlTmFtZQYNUHJvdGVjdCBUYWJsZQdPcHRpb25zCw1ydnBhb1JlYWRPbmx5
+EXJ2cGFvU3R5bGVQcm90ZWN0FXJ2cGFvRG9Ob3RXYW50UmV0dXJucwAEVGFicw4AAAAtOSAyIDAg
+MCAyIDAgNA0KcnZzDQoCAAAADgAzIDEgMSAwIDAgMA0KSW5zcGlyYXNpDQo=
+</rvf></Component><Component type="4" id="shape1" zorder="0" filename="shape116184234" width="1366" height="566" bgcolor="#CCFFFF" previewfile="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\shapeB4SD6.gif" left="4" top="83" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape116184234.gif" fp="1" lp="1"/><Component type="2" id="text2" zorder="4" filename="text119923859" width="264" height="207" html="" left="1" top="301" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Hidup kita itu sebaiknya ibarat&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt; “bulan &amp;amp; matahari”dilihat &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;orang atau tidak, ia tetap bersinar. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Dihargai orang atau tidak, ia tetap menerangi.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt; Diterimakasihi atau tidak, ia tetap “berbagi”&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;~BOB SADINO~&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;Hidup kita itu sebaiknya ibarat&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt; “bulan &amp;amp; matahari”dilihat &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;orang atau tidak, ia tetap bersinar. &lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;Dihargai orang atau tidak, ia tetap menerangi.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt; Diterimakasihi atau tidak, ia tetap “berbagi”&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;~BOB SADINO~&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYW1icmlhBFNpemUCDAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0K
+AgAAAA4AMyA3IDEgMCAwIDANCkhpZHVwIGtpdGEgaXR1IHNlYmFpa255YSBpYmFyYXQNCiCTYnVs
+YW4gJiBtYXRhaGFyaZRkaWxpaGF0IA0Kb3JhbmcgYXRhdSB0aWRhaywgaWEgdGV0YXAgYmVyc2lu
+YXIuIA0KRGloYXJnYWkgb3JhbmcgYXRhdSB0aWRhaywgaWEgdGV0YXAgbWVuZXJhbmdpLg0KIERp
+dGVyaW1ha2FzaWhpIGF0YXUgdGlkYWssIGlhIHRldGFwIJNiZXJiYWdplA0KDQp+Qk9CIFNBRElO
+T34NCg==
+</rvf></Component><Component type="10" id="roundrect2" zorder="1" filename="roundrect121084578" width="272" height="582" fillstyle="0" spborder="0" fromcolor="#99CC00" shapetype="1" radius="23" previewfile="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\shape75OLB.gif" left="0" top="68" bordercolor="#808080" borderwidth="1" tocolor="#808080" bgcolor="" borderstyle="" exportfilename="images/roundrect121084578.gif" fp="1" lp="1"/><Component type="5" id="nav1" zorder="6" filename="nav121661562" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="100" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="C:\Users\Mr.Dimas\Documents\Web Page Maker\Navbar\cc01in.gif" mouseoverimage="C:\Users\Mr.Dimas\Documents\Web Page Maker\Navbar\cc01over.gif" mouseoversound="" navtext0="home" navurl0="page://p116168671" navtarget0="" navstate0="0" navtarget1="" navtarget2="" navtarget3="" navcount="1" width="125" height="26" preview="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\NavBJ36K" left="729" top="605" exportfilename="images/nav121661562" exportsound="" fp="1" lp="1"/><Component type="3" id="image1" zorder="7" filename="image127157046" left="0" top="0" width="272" height="272" originwidth="532" originheight="532" src="C:\unsia\pemrograman basis web\uts\portopolio\images\pasted image 0-modified.png" previewfile="C:\unsia\pemrograman basis web\uts\portopolio\images\pasted image 0-modified.png" thumbname="thumb139471078" resamplename="img139471078" exportfilename="images/pasted image 0-modified.png" fp="1" lp="1"/><Component type="2" id="text4" zorder="5" filename="text134921125" left="278" top="373" width="1059" height="243" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:24px;"&gt;&lt;B&gt;BIodata singkat&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;H. Bambang Mustari Sadino (9 Maret 1933 – 19 Januari 2015) atau akrab dipanggil Bob Sadino, adalah seorang pengusaha asal Indonesia yang berbisnis di bidang pangan dan peternakan. Ia adalah pemilik dari jaringan usaha Kemfood dan Kemchick. Dalam banyak kesempatan, ia sering terlihat santai dengan mengenakan kemeja lengan pendek dan celana pendek yang menjadi ciri khasnya sehari-hari.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Sadino sering dikunjungi oleh presiden Indonesia, seperti Suharto, Megawati Sukarnoputri dan Susilo Bambang Yudhoyono. Bagi kebanyakan orang, ketika mereka bertemu orang penting, mereka akan selalu berusaha terlihat baik dan mengenakan pakaian yang rapi. Tapi hal itu sangat bertentangan dengan Bob Sadino yang tidak ragu mengenakan celana pendek saat bertemu orang-orang penting. Seolah-olah celana pendek adalah baju dinasnya. Suatu hari, dia diundang ke gedung DPR dan dia memakai celana pendek seperti biasa. Pada saat itu salah satu staf gedung DPR bahkan mengingatkannya untuk berpakaian rapi.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws18"&gt;&lt;B&gt;BIodata singkat&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Cambria" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Cambria" class="ws12"&gt;H. Bambang Mustari Sadino (9 Maret 1933 – 19 Januari 2015) atau akrab dipanggil Bob Sadino, adalah seorang pengusaha asal Indonesia yang berbisnis di bidang pangan dan peternakan. Ia adalah pemilik dari jaringan usaha Kemfood dan Kemchick. Dalam banyak kesempatan, ia sering terlihat santai dengan mengenakan kemeja lengan pendek dan celana pendek yang menjadi ciri khasnya sehari-hari.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font face="Cambria" class="ws12"&gt;Sadino sering dikunjungi oleh presiden Indonesia, seperti Suharto, Megawati Sukarnoputri dan Susilo Bambang Yudhoyono. Bagi kebanyakan orang, ketika mereka bertemu orang penting, mereka akan selalu berusaha terlihat baik dan mengenakan pakaian yang rapi. Tapi hal itu sangat bertentangan dengan Bob Sadino yang tidak ragu mengenakan celana pendek saat bertemu orang-orang penting. Seolah-olah celana pendek adalah baju dinasnya. Suatu hari, dia diundang ke gedung DPR dan dia memakai celana pendek seperti biasa. Pada saat itu salah satu staf gedung DPR bahkan mengingatkannya untuk berpakaian rapi.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQovAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYW1icmlhBFNpemUCDAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgdDYW1icmlhBFNpemUCEgVTdHlsZQsGZnNCb2xkAAAALTkgMiAw
+IDAgMiAwIDINCnJ2cw0KTgEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFk
+T25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAABCVN0
+eWxlTmFtZQYIQ2VudGVyZWQIU3RhbmRhcmQICUFsaWdubWVudAcKcnZhSnVzdGlmeQdPcHRpb25z
+CwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA0IDEgMSAwIDAgMA0KQklvZGF0
+YSBzaW5na2F0DQozIDMgNCAwIDAgMA0KDQpILiBCYW1iYW5nIE11c3RhcmkgU2FkaW5vICg5IE1h
+cmV0IDE5MzMgliAxOSBKYW51YXJpIDIwMTUpIGF0YXUgYWtyYWIgZGlwYW5nZ2lsIEJvYiBTYWRp
+bm8sIGFkYWxhaCBzZW9yYW5nIHBlbmd1c2FoYSBhc2FsIEluZG9uZXNpYSB5YW5nIGJlcmJpc25p
+cyBkaSBiaWRhbmcgcGFuZ2FuIGRhbiBwZXRlcm5ha2FuLiBJYSBhZGFsYWggcGVtaWxpayBkYXJp
+IGphcmluZ2FuIHVzYWhhIEtlbWZvb2QgZGFuIEtlbWNoaWNrLiBEYWxhbSBiYW55YWsga2VzZW1w
+YXRhbiwgaWEgc2VyaW5nIHRlcmxpaGF0IHNhbnRhaSBkZW5nYW4gbWVuZ2VuYWthbiBrZW1lamEg
+bGVuZ2FuIHBlbmRlayBkYW4gY2VsYW5hIHBlbmRlayB5YW5nIG1lbmphZGkgY2lyaSBraGFzbnlh
+IHNlaGFyaS1oYXJpLg0KU2FkaW5vIHNlcmluZyBkaWt1bmp1bmdpIG9sZWggcHJlc2lkZW4gSW5k
+b25lc2lhLCBzZXBlcnRpIFN1aGFydG8sIE1lZ2F3YXRpIFN1a2Fybm9wdXRyaSBkYW4gU3VzaWxv
+IEJhbWJhbmcgWXVkaG95b25vLiBCYWdpIGtlYmFueWFrYW4gb3JhbmcsIGtldGlrYSBtZXJla2Eg
+YmVydGVtdSBvcmFuZyBwZW50aW5nLCBtZXJla2EgYWthbiBzZWxhbHUgYmVydXNhaGEgdGVybGlo
+YXQgYmFpayBkYW4gbWVuZ2VuYWthbiBwYWthaWFuIHlhbmcgcmFwaS4gVGFwaSBoYWwgaXR1IHNh
+bmdhdCBiZXJ0ZW50YW5nYW4gZGVuZ2FuIEJvYiBTYWRpbm8geWFuZyB0aWRhayByYWd1IG1lbmdl
+bmFrYW4gY2VsYW5hIHBlbmRlayBzYWF0IGJlcnRlbXUgb3Jhbmctb3JhbmcgcGVudGluZy4gU2Vv
+bGFoLW9sYWggY2VsYW5hIHBlbmRlayBhZGFsYWggYmFqdSBkaW5hc255YS4gU3VhdHUgaGFyaSwg
+ZGlhIGRpdW5kYW5nIGtlIGdlZHVuZyBEUFIgZGFuIGRpYSBtZW1ha2FpIGNlbGFuYSBwZW5kZWsg
+c2VwZXJ0aSBiaWFzYS4gUGFkYSBzYWF0IGl0dSBzYWxhaCBzYXR1IHN0YWYgZ2VkdW5nIERQUiBi
+YWhrYW4gbWVuZ2luZ2F0a2FubnlhIHVudHVrIGJlcnBha2FpYW4gcmFwaS4NCg==
+</rvf></Component><Component type="3" id="image2" zorder="9" filename="image137106921" left="677" top="161" width="236" height="211" originwidth="410" originheight="410" src="C:\unsia\pemrograman basis web\uts\portopolio\images\Bob_sadino_prev_ui-modified.png" previewfile="C:\unsia\pemrograman basis web\uts\portopolio\images\Bob_sadino_prev_ui-modified.png" thumbname="thumb139471078" resamplename="img139471093" exportfilename="images/Bob_sadino_prev_ui-modified.png" fp="1" lp="1"/><Component type="11" id="ellipse1" zorder="8" filename="ellipse137130750" width="245" height="241" fillstyle="0" spborder="0" fromcolor="#00CCFF" shapetype="2" previewfile="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\shape0NQ48.gif" left="672" top="131" bordercolor="#808080" borderwidth="1" bgcolor="" borderstyle="" exportfilename="images/ellipse137130750.gif" fp="1" lp="1"/></body></page><page id="p116184921" pageindex="3" name="kontak" pp="1" cp="1"><body bgoutput="" bgsoutput="" bgp="1" bsp="1"><Component type="10" id="roundrect1" zorder="3" filename="roundrect116185031" width="1366" height="153" fillstyle="0" spborder="1" fromcolor="#00FFFF" shapetype="1" radius="20" previewfile="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\shapeMJM68.gif" left="19" top="0" fp="1" bordercolor="#00CCFF" borderwidth="1" tocolor="#808080" bgcolor="" borderstyle="" exportfilename="images/roundrect116185031.gif" lp="1"/><Component type="4" id="shape1" zorder="1" filename="shape116184968" width="1366" height="520" bgcolor="#CCFFFF" previewfile="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\shape1V4GD.gif" left="1" top="89" spborder="0" borderstyle="0" bordercolor="#808080" borderwidth="1" fillstyle="0" exportfilename="images/shape116184968.gif" fp="1" lp="1"/><Component type="7" id="marquee1" zorder="4" filename="marquee120489890" width="1132" height="90" html="" left="217" top="26" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" bgcolor="" borderstyle="0" bordercolor="#808080" borderwidth="3" behavior="" direction="" scrolldelay="" scrollamount="" loop="" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font face="Cambria" style="font-size:48px;"&gt;Hubungi saya lewat kontak yang tertera Dibawah dan Terimakasih atas kunjunganya&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font face="Cambria" class="ws36"&gt;Hubungi saya lewat kontak yang tertera Dibawah dan Terimakasih atas kunjunganya&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQrkAAAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYW1icmlhBFNpemUCJAAALTkgMiAwIDAgMiAwIDINCnJ2cw0KBwEA
+AA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1lBghD
+ZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFicw4AAAEJU3R5bGVOYW1l
+BgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlvbnMLAARUYWJzDgAAAQlTdHls
+ZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFkT25seRFydnBhb1N0eWxlUHJv
+dGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0K
+AgAAAA4AMyAxIDAgMCAwIDANCkh1YnVuZ2kgc2F5YSBsZXdhdCBrb250YWsgeWFuZyB0ZXJ0ZXJh
+IERpYmF3YWggZGFuIFRlcmltYWthc2loIGF0YXMga3VuanVuZ2FueWENCg==
+</rvf></Component><Component type="4" id="shape3" zorder="0" filename="shape120841390" width="1162" height="146" bgcolor="#003300" previewfile="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\shapeDAM86.gif" left="206" top="604" spborder="1" borderstyle="1" bordercolor="#000000" borderwidth="3" fillstyle="0" exportfilename="images/shape120841390.gif" fp="1" lp="1"/><Component type="10" id="roundrect2" zorder="2" filename="roundrect120969812" width="310" height="708" fillstyle="0" spborder="0" fromcolor="#99CC00" shapetype="1" radius="23" previewfile="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\shapeECHUO.gif" left="0" top="42" bordercolor="#808080" borderwidth="1" tocolor="#808080" bgcolor="" borderstyle="" exportfilename="images/roundrect120969812.gif" fp="1" lp="1"/><Component type="5" id="nav1" zorder="5" filename="nav122173031" fontname="Tahoma" fontsize="10" fontcolor="8421504" fontstyle="1" activecolor="536870911" navspace="130" navstyle="0" hormargin="0" vermargin="0" textalign="1" navwidth="125" navheight="26" normalimage="C:\Users\Mr.Dimas\Documents\Web Page Maker\Navbar\cc01in.gif" mouseoverimage="C:\Users\Mr.Dimas\Documents\Web Page Maker\Navbar\cc01over.gif" mouseoversound="" navtext0="home" navurl0="page://p116168671" navtarget0="" navstate0="0" navtarget1="" navtarget2="" navtarget3="" navcount="1" width="255" height="26" preview="C:\Users\MR3FE9~1.DIM\AppData\Local\Temp\Web Page Maker\docVA0B6\NavQTT7J" left="101" top="595" exportfilename="images/nav122173031" exportsound="" fp="1" lp="1"/><Component type="3" id="image1" zorder="6" filename="image130055031" left="10" top="0" width="300" height="269" originwidth="829" originheight="829" src="C:\unsia\pemrograman basis web\uts\portopolio\images\phone-icon-telephone-icon-symbol-for-app-and-messenger-free-vector-modified.png" previewfile="C:\unsia\pemrograman basis web\uts\portopolio\images\phone-icon-telephone-icon-symbol-for-app-and-messenger-free-vector-modified.png" thumbname="thumb139472875" resamplename="img139472875" exportfilename="images/phone-icon-telephone-icon-symbol-for-app-and-messenger-free-vector-modified.png" fp="1" lp="1"/><Component type="2" id="text1" zorder="7" filename="text130166125" left="6" top="309" width="295" height="169" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:27px;"&gt;&lt;B&gt;kontak&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:27px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Email&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : LifeMyStyle@gmail.com&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;github&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : www.github.com/dimasUNSIA&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;blogspot&amp;nbsp;&amp;nbsp;&amp;nbsp; : demas7812.blogspot.com/&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws20"&gt;&lt;B&gt;kontak&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws20"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Cambria" class="ws12"&gt;Email&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : LifeMyStyle@gmail.com&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Cambria" class="ws12"&gt;github&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; : www.github.com/dimasUNSIA&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font face="Cambria" class="ws12"&gt;blogspot&amp;nbsp;&amp;nbsp;&amp;nbsp; : demas7812.blogspot.com/&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQprAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYW1icmlhBFNpemUCFAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgdDYW1icmlhBFNpemUCFAVTdHlsZQsGZnNCb2xkAAABCVN0eWxl
+TmFtZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgdDYW1icmlhBFNpemUCDAAALTkg
+MiAwIDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25z
+CwAEVGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09w
+dGlvbnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9S
+ZWFkT25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAA
+LTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAxIDEgMCAwIDANCmtvbnRhaw0KMyAxIDEgMCAw
+IDANCg0KNSAzIDAgMCAwIDANCkVtYWlsICAgICAgICAgIDogTGlmZU15U3R5bGVAZ21haWwuY29t
+DQpnaXRodWIgICAgICAgIDogd3d3LmdpdGh1Yi5jb20vZGltYXNVTlNJQQ0KYmxvZ3Nwb3QgICAg
+OiBkZW1hczc4MTIuYmxvZ3Nwb3QuY29tLw0K
+</rvf></Component><Component type="22" id="paypal1" zorder="8" filename="paypal131203921" pptype="3" width="84" height="35" image="C:\Program Files (x86)\Web Page Maker\Resource\PayPal\btn_donate_SM.gif" imagetype="1" business="https://paypal.me/fxsatya?country.x=ID&amp;locale.x=id_ID" item_name="Demas yps" item_number="081584462994" currency_code="USD" return="" cancel_return="" no_note="0" cn="Add special instructions to the seller" undefined_quantity="0" no_shipping="0" left="96" top="441" fp="1" lp="1"/><Component type="2" id="text2" zorder="9" filename="text131403906" left="626" top="245" width="434" height="201" html="" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="1" lp="1"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:21px;"&gt;&lt;B&gt;Salam&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;" Dari Irian banyak cenderawasih&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Roti mengembang diberi ragi&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Cukup sekian terima kasih&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;Semoga esok berjumpa lagi "&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" style="font-size:16px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws16"&gt;&lt;B&gt;Salam&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;" Dari Irian banyak cenderawasih&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;Roti mengembang diberi ragi&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;Cukup sekian terima kasih&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;Semoga esok berjumpa lagi "&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font face="Cambria" class="ws12"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQovAQAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGBkp1bXAgMQhGb250TmFtZQYFQXJpYWwFU3R5
+bGULC2ZzVW5kZXJsaW5lAAVDb2xvcgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgdVbmljb2Rl
+CEZvbnROYW1lBghTZWdvZSBVSQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgdDYW1icmlhBFNpemUCDAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgdDYW1icmlhBFNpemUCEAVTdHlsZQsGZnNCb2xkAAAALTkgMiAw
+IDAgMiAwIDINCnJ2cw0KBwEAAA4BCVN0eWxlTmFtZQYKTGVmdCBBbGlnbgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAE
+VGFicw4AAAEJU3R5bGVOYW1lBgtSaWdodCBBbGlnbglBbGlnbm1lbnQHCHJ2YVJpZ2h0B09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGDVByb3RlY3QgVGFibGUHT3B0aW9ucwsNcnZwYW9SZWFk
+T25seRFydnBhb1N0eWxlUHJvdGVjdBVydnBhb0RvTm90V2FudFJldHVybnMABFRhYnMOAAAALTkg
+MiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANCAxIDEgMCAwIDANClNhbGFtDQozIDkgMSAwIDAgMA0K
+DQoiIERhcmkgSXJpYW4gYmFueWFrIGNlbmRlcmF3YXNpaA0KDQpSb3RpIG1lbmdlbWJhbmcgZGli
+ZXJpIHJhZ2kNCg0KQ3VrdXAgc2VraWFuIHRlcmltYSBrYXNpaA0KDQpTZW1vZ2EgZXNvayBiZXJq
+dW1wYSBsYWdpICINCg0K
+</rvf></Component></body></page></site>
